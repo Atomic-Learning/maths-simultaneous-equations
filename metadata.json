@@ -1,22 +1,16 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Maths: Simultaneous Equations",
+    "slug": "maths-simultaneous-equations",
+    "description": "Introduces simultaneous equations, where multiple unknown variables can be found.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "maths"
     ],
-    "duration": 0,
+    "duration": 5,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
     ]
 }
